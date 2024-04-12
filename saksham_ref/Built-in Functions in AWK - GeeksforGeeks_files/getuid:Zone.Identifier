@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://googleads.g.doubleclick.net/
+HostUrl=https://ib.adnxs.com/getuid?https://cm.g.doubleclick.net/pixel?google_nid=appnexus&google_hm=${BASE64_UID_ENC}

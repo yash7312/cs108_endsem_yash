@@ -1,0 +1,1 @@
+s/^\([A-Za-z]\+\) got \([1-9]\) medals in \([A-Za-z]\+\) in \([0-9][0-9][0-9][0-9]\)$/In \4, \1 got \2 medals in \3/g
